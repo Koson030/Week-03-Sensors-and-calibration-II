@@ -11,12 +11,14 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Lab-Cover.png"
+                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Lab-Cover"
+              "icon": "lucide-file",
+              "title": "Week-03-Lab-sheet-03-LDR-and-calibration"
             }
           }
         ]
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Lab-Cover.png",
+                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab-Cover"
+              "title": "Outline of Week-03-Lab-sheet-03-LDR-and-calibration"
             }
           },
           {
@@ -203,11 +205,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71230346fe056fc1",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
+    "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",
     "Week-03-Lab-sheet-03-LDR-and-calibration.md",
-    "Images/Lab-Cover.png",
     "Week-03.md",
     "Images/Add_Scatter_Chart.png",
     "Pasted image 20260713013048.png",
