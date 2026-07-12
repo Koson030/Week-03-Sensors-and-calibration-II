@@ -8,6 +8,9 @@
 
 ### **คุณสมบัติของ Sensor**
 
+
+![](Images/Sensors.png)
+
 - ทำหน้าที่ “ตรวจจับ” ปริมาณทางกายภาพ
 - ให้สัญญาณออกที่สัมพันธ์กับสิ่งที่วัด
 - มักเป็นอุปกรณ์ **Input** ของระบบ
@@ -15,16 +18,22 @@
 
 ### **ตัวอย่าง Sensor**
 
+
+
+![](Images/Example_of_Sensors.png)
 - **Thermistor** → อุณหภูมิ → ความต้านทาน
 - **LDR** → แสง → ความต้านทาน
 - **Hall Sensor** → สนามแม่เหล็ก → แรงดัน
 - **Accelerometer** → ความเร่ง → สัญญาณดิจิทัล/อนาล็อก
 
-## **Transducer (ทรานสดิวเซอร์)**
+## **3.4.2 Transducer (ทรานสดิวเซอร์)**
 
 อุปกรณ์ที่ทำหน้าที่ **แปลงพลังงานจากโดเมนหนึ่งไปยังอีกโดเมนหนึ่ง** ไม่จำกัดว่าต้องเป็น Input หรือ Output ไม่จำกัดว่าต้องเป็นไฟฟ้า → อาจเป็นเสียง, แสง, การเคลื่อนที่, ความร้อน ฯลฯ
 
 ### **คุณสมบัติของ Transducer**
+
+
+![](Images/Transducer_characteristics.png)
 
 - ทำหน้าที่ “แปลงพลังงาน” ระหว่างโดเมน
 - อาจเป็น Input หรือ Output
@@ -35,6 +44,8 @@
 
 #### **Input Transducer**
 
+
+![](Images/Input_Transducers.png)
 - **Piezoelectric** → แรงกด → ไฟฟ้า
 - **Microphone** → เสียง → ไฟฟ้า
 - **Photodiode** → แสง → กระแสไฟฟ้า
@@ -44,10 +55,12 @@
 - **Speaker** → ไฟฟ้า → เสียง
 - **LED** → ไฟฟ้า → แสง
 - **Motor** → ไฟฟ้า → การหมุน
-
+![](Images/Output_Transducers.png)
 # **ความสัมพันธ์ระหว่าง Sensor และ Transducer**
 
 คุณสามารถสรุปความสัมพันธ์ได้แบบนี้
+
+![](Images/Sensor_vs_Transducer.png)
 
 ### **Sensor ⊂ Transducer**
 
@@ -63,7 +76,6 @@
 | **Input Transducer**  | แปลงพลังงาน → สัญญาณไฟฟ้า   | Piezo<br>Microphone<br>Photodiode |
 | **Output Transducer** | แปลงไฟฟ้า → พลังงานรูปอื่น  | Speaker<br>LED<br>Motor           |
 
-![](Gemini_Generated_Image_cab33fcab33fcab3.png)
 
 > **Sensor คือ Transducer ที่ถูกออกแบบมาเพื่อการวัด** 
 > **Transducer คืออุปกรณ์แปลงพลังงาน ไม่จำกัดทิศทาง**
