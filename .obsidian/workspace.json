@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Week-03-Lab-sheet-03-LDR-and-calibration"
             }
           }
         ]
@@ -195,18 +195,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71230346fe056fc1",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "test/Testing.md",
+    "Week-03-05-Signal-Integrity.md",
+    "Week-03-03-Physical to Electrical to Digital.md",
+    "Week-03-01_Physical_World.md",
     "README.md",
     "Week-03.md",
-    "test",
-    "Week-03-01_Physical_World.md",
-    "Week-03-02-Digital-World.md",
-    "Week-03-03-Physical to Electrical to Digital.md",
-    "Week-03-04-Sensor-vs-Transducer.md",
-    "Week-03-05-Signal-Integrity.md",
     "Week-03-Lab-sheet-03-LDR-and-calibration.md",
+    "67030030/CMaleLists.txt",
+    "build/CMaleLists.txt",
+    "CMakeLists.txt",
+    "67030030/build/CMakeCache.txt",
+    "67030030/build/CMakeFiles/CMakeScratch/TryCompile-aveep7/CMakeFiles/cmTC_0ddb2.dir/testCCompiler.c.obj",
+    "67030030/build/CMakeFiles/CMakeScratch/TryCompile-aveep7/CMakeFiles/cmTC_0ddb2.dir/testCCompiler.c.obj.d",
+    "67030030/build/CMakeFiles/CMakeScratch/TryCompile-aveep7/CMakeFiles/cmTC_0ddb2.dir/testCCompiler.c-f81428c9.obj.tmp",
+    "67030030/build/CMakeFiles/CMakeScratch/TryCompile-aveep7/CMakeFiles/InstallScripts.json",
+    "67030030/build/CMakeFiles/CMakeScratch/TryCompile-aveep7/CMakeCache.txt.tmpf7b65",
+    "67030030/build/CMakeFiles/CMakeScratch/TryCompile-aveep7/build.ninja",
+    "Week-03-04-Sensor-vs-Transducer.md",
+    "test/Testing.md",
+    "Week-03-02-Digital-World.md",
     "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",
     "Images/Add_Scatter_Chart.png",
